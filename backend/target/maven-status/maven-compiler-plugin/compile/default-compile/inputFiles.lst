@@ -1,0 +1,8 @@
+C:\Users\nicol\Desktop\practica-crud\backend\src\main\java\com\practica\almacen\AlmacenApplication.java
+C:\Users\nicol\Desktop\practica-crud\backend\src\main\java\com\practica\almacen\controller\ProductoController.java
+C:\Users\nicol\Desktop\practica-crud\backend\src\main\java\com\practica\almacen\dto\ProductoRequestDTO.java
+C:\Users\nicol\Desktop\practica-crud\backend\src\main\java\com\practica\almacen\dto\ProductoResponseDTO.java
+C:\Users\nicol\Desktop\practica-crud\backend\src\main\java\com\practica\almacen\entity\Producto.java
+C:\Users\nicol\Desktop\practica-crud\backend\src\main\java\com\practica\almacen\exception\GlobalExceptionHandler.java
+C:\Users\nicol\Desktop\practica-crud\backend\src\main\java\com\practica\almacen\repository\ProductoRepository.java
+C:\Users\nicol\Desktop\practica-crud\backend\src\main\java\com\practica\almacen\service\ProductoService.java
